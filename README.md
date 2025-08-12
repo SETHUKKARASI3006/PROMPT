@@ -72,8 +72,7 @@ ________________________________________
 
 Generative Artificial Intelligence (Generative AI) represents a class of AI systems capable of creating new and original content, including text, images, music, code, and more. With advancements in deep learning, particularly transformer architectures, large language models (LLMs) have emerged as powerful tools for natural language understanding and generation. This report explores the foundational concepts of Generative AI, delves into its architectures (including transformers and variants), examines real-world applications, and analyzes the impact of scaling laws in LLMs. It also covers limitations, ethical challenges, and future trends.
 
-![Uploading image.png…]()
-
+<img width="2922" height="3066" alt="## __Abstract__ - visual selection (1)" src="https://github.com/user-attachments/assets/0428ab89-3842-44e1-b5db-101c8b3df3f0" />
 
 ---
 
